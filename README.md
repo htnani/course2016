@@ -24,28 +24,26 @@ Compendium of resources for the 2016 course
 | Time       | Activity        | Location  |
 | ------------- |:-------------:| :-----:|
 | 09:00      | _Lecture_: How to Use Sequencing Data (Scott Dawson)     |  Candle House |
-| 10:30 | _Lecture_:    | Candle House   |
-| 13:00 | _Tutorial_:    | Lab   |
+| 10:30 | _Lecture_: Genome Assembly (Titus Brown)    | Candle House   |
+| 13:00 | _Tutorial_: Genome Assembly   | Lab   |
 
 #### <a name="27"></a> Wednesday 27 July 2016
 | Time       | Activity        | Location  |
 | ------------- |:-------------:| :-----:|
-| 09:00      | _Lecture_:     |  Candle House |
-| 10:30 | _Lecture_:    | Candle House   |
-| 13:00 | _Tutorial_:    | Lab   |
+| 09:00      | _Lecture_: Homology (Scott Dawson)    |  Fishbowl |
+| 10:30 | _Lecture_:  Genome Annotation (Scott Dawson)  | Fishbowl   |
+| 13:00 | _Tutorial_: Genome Annotation   | Lab   |
 
 #### <a name="26"></a> Thursday 28 July 2016
 | Time       | Activity        | Location  |
 | ------------- |:-------------:| :-----:|
-| 09:00      | _Lecture_:      |  Candle House |
-| 10:30 | _Lecture_:    | Candle House   |
-| 13:00 | _Tutorial_:    | Lab   |
+| 09:00      | _Lecture_:  Metagenomics Assembly (Tracy Teal)    |  Fishbowl |
+| 10:30 | _Lecture_: Ying Zhang   | Fishbowl   |
+| 13:00 | _Tutorial_: anvi'o for visualization   | Lab   |
 
 #### <a name="26"></a> Friday 29 July 2016
 | Time       | Activity        | Location  |
 | ------------- |:-------------:| :-----:|
-| 09:00      | _Lecture_:     |  Candle House |
-| 10:30 | _Lecture_:    | Candle House   |
-| 13:00 | _Tutorial_:    | Lab   |
-
-
+| 09:00      | _Lecture_: 2016 Microbial Diversity Genomes and Pan Genomes (Scott Dawson)    |  Fishbowl |
+| 10:30 | _Lecture_: Phylogentic Analysis (Scott Dawson)   | Fishbowl   |
+| 13:00 | _Tutorial_:  optional R lesson  | Lab   |
