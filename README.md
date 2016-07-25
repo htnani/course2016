@@ -25,27 +25,27 @@ Compendium of resources for the 2016 course
 | ------------- |:-------------:| :-----:|
 | 09:00      | _Lecture_: How to Use Sequencing Data (Scott Dawson)     |  Candle House |
 | 10:30 | _Lecture_:    | Candle House   |
-| 13:00 | [_Tutorial_:    | Lab   |
+| 13:00 | _Tutorial_:    | Lab   |
 
 #### <a name="27"></a> Wednesday 27 July 2016
 | Time       | Activity        | Location  |
 | ------------- |:-------------:| :-----:|
 | 09:00      | _Lecture_:     |  Candle House |
 | 10:30 | _Lecture_:    | Candle House   |
-| 13:00 | [_Tutorial_:    | Lab   |
+| 13:00 | _Tutorial_:    | Lab   |
 
 #### <a name="26"></a> Thursday 28 July 2016
 | Time       | Activity        | Location  |
 | ------------- |:-------------:| :-----:|
 | 09:00      | _Lecture_:      |  Candle House |
 | 10:30 | _Lecture_:    | Candle House   |
-| 13:00 | [_Tutorial_:    | Lab   |
+| 13:00 | _Tutorial_:    | Lab   |
 
 #### <a name="26"></a> Friday 29 July 2016
 | Time       | Activity        | Location  |
 | ------------- |:-------------:| :-----:|
 | 09:00      | _Lecture_:     |  Candle House |
 | 10:30 | _Lecture_:    | Candle House   |
-| 13:00 | [_Tutorial_:    | Lab   |
+| 13:00 | _Tutorial_:    | Lab   |
 
 
