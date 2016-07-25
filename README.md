@@ -15,35 +15,36 @@ Compendium of resources for the 2016 course
 #### <a name="25"></a> Monday 25 July 2016
 | Time       | Activity        | Location  |
 | ------------- |:-------------:| :-----:|
-| 09:00    | Norm Pace Lecture | Candle House |
+| 09:15    | Norm Pace Lecture | Candle House |
 | 10:30 | Norm Pace lecture |    Candle House |
-| 13:00 | [QIIME tutorial](https://github.com/jessicamizzi/qiime_tutorial/blob/master/main_tutorial.md) | breakroom |
+| 15:30 | [QIIME tutorial](https://github.com/jessicamizzi/qiime_tutorial/blob/master/main_tutorial.md) | breakroom |
 
 
 #### <a name="26"></a> Tuesday 26 July 2016
 | Time       | Activity        | Location  |
 | ------------- |:-------------:| :-----:|
-| 09:00      | _Lecture_: How to Use Sequencing Data (Scott Dawson)     |  Candle House |
+| 09:15      | _Lecture_: How to Use Sequencing Data (Scott Dawson)     |  Candle House |
 | 10:30 | _Lecture_: Genome Assembly (Titus Brown)    | Candle House   |
-| 13:00 | _Tutorial_: Genome Assembly   | Lab   |
+| 15:30 | _Tutorial_: Genome Assembly   | Lab   |
 
 #### <a name="27"></a> Wednesday 27 July 2016
 | Time       | Activity        | Location  |
 | ------------- |:-------------:| :-----:|
-| 09:00      | _Lecture_: Homology (Scott Dawson)    |  Fishbowl |
+| 09:15      | _Lecture_: Homology (Scott Dawson)    |  Fishbowl |
 | 10:30 | _Lecture_:  Genome Annotation (Scott Dawson)  | Fishbowl   |
-| 13:00 | _Tutorial_: Genome Annotation   | Lab   |
+| 15:30 | _Tutorial_: Genome Annotation   | Lab   |
 
 #### <a name="26"></a> Thursday 28 July 2016
 | Time       | Activity        | Location  |
 | ------------- |:-------------:| :-----:|
-| 09:00      | _Lecture_:  Metagenomics Assembly (Tracy Teal)    |  Fishbowl |
-| 10:30 | _Lecture_: Ying Zhang   | Fishbowl   |
-| 13:00 | _Tutorial_: anvi'o for visualization   | Lab   |
+| 09:15      | _Lecture_:  Metagenomics Assembly (Tracy Teal)    |  Fishbowl |
+| 10:30 | _Lecture_: Ying Zhang: From genomes to metabolic models: making a blueprint of genotype-phenotype associations   | Fishbowl   |
+| 13:30 | _Lecture_: Ethics Discussion with Frank Solomon | Fishbowl |
+| 15:30 | _Tutorial_: anvi'o for visualization   | Lab   |
 
 #### <a name="26"></a> Friday 29 July 2016
 | Time       | Activity        | Location  |
 | ------------- |:-------------:| :-----:|
-| 09:00      | _Lecture_: 2016 Microbial Diversity Genomes and Pan Genomes (Scott Dawson)    |  Fishbowl |
+| 09:15      | _Lecture_: 2016 Microbial Diversity Genomes and Pan Genomes (Scott Dawson)    |  Fishbowl |
 | 10:30 | _Lecture_: Computing Workflows for Biologists (Tracy Teal)   | Fishbowl   |
-| 13:00 | _Tutorial_:  optional R lesson  | Lab   |
+| 15:30 | _Tutorial_:  optional R lesson  | Lab   |
