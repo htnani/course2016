@@ -45,5 +45,5 @@ Compendium of resources for the 2016 course
 | Time       | Activity        | Location  |
 | ------------- |:-------------:| :-----:|
 | 09:00      | _Lecture_: 2016 Microbial Diversity Genomes and Pan Genomes (Scott Dawson)    |  Fishbowl |
-| 10:30 | _Lecture_: Phylogentic Analysis (Scott Dawson)   | Fishbowl   |
+| 10:30 | _Lecture_: Computing Workflows for Biologists (Tracy Teal)   | Fishbowl   |
 | 13:00 | _Tutorial_:  optional R lesson  | Lab   |
