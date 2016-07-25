@@ -17,7 +17,8 @@ Compendium of resources for the 2016 course
 | ------------- |:-------------:| :-----:|
 | 09:00    | Norm Pace Lecture | Candle House |
 | 10:30 | Norm Pace lecture |    Candle House |
-| 13:00 | [QIIME tutorial](https://github.com/jessicamizzi/qiime_tutorial/blob/master/main_tutorial.md) | breakroom |
+| 13:00 | [QIIME tutorial](https://github.com/mblmicdiv/diversity-analysis/blob/master/qiime-tutorial.md)<br> [QIIME SOP]
+(https://github.com/jessicamizzi/qiime_tutorial/blob/master/main_tutorial.md) | breakroom |
 
 
 #### <a name="26"></a> Tuesday 26 July 2016
