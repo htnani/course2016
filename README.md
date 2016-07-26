@@ -24,7 +24,7 @@ Compendium of resources for the 2016 course
 | ------------- |:-------------:| :-----:|
 | 09:15      | _Lecture_: How to Use Sequencing Data (Scott Dawson)     |  Candle House |
 | 10:30 | _Lecture_: Genome Assembly (Titus Brown)    | Candle House   |
-| 15:30 | _Tutorial_: Genome Assembly   | Lab   |
+| 15:30 | _Tutorial_: [Genome Assembly](https://github.com/mblmicdiv/ecoli-assembly-binder/blob/master/assembly-tutorial.md)   | Lab   |
 
 #### <a name="27"></a> Wednesday 27 July 2016
 | Time       | Activity        | Location  |
