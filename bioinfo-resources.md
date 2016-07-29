@@ -113,3 +113,7 @@ Building off the foundational skills these are tutorials on the more specific an
 ### Genome annotation
 
 ### Metagenome annotation
+
+### Metabolomic modeling
+
+- [PSAMM tutorial](https://psamm.readthedocs.io/en/latest/tutorial.html)
