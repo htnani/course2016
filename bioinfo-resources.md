@@ -2,7 +2,30 @@
 
 For bioinformatics and data analysis in genomics, there are some useful foundational skills and tools, as well as some specific to particular analyses. This is meant to be a resource of links to tutorials on many of these topics. A few courses also run that focus on these skills in particular, and have sets of resources.
 
+<!-- TOC depthFrom:2 depthTo:6 withLinks:1 updateOnSave:1 orderedList:0 -->
 
+- [Courses](#courses)
+- [Foundational skills](#foundational-skills)
+	- [Data organization](#data-organization)
+	- [Introduction to R](#introduction-to-r)
+	- [Introduction to Python](#introduction-to-python)
+	- [Introduction to the command line](#introduction-to-the-command-line)
+	- [Using Amazon EC2 instances](#using-amazon-ec2-instances)
+	- [Introduction to github](#introduction-to-github)
+- [Analysis specific tutorials](#analysis-specific-tutorials)
+	- [Sequence quality filtering](#sequence-quality-filtering)
+	- [BLAST databases](#blast-databases)
+	- [mothur](#mothur)
+	- [QIIME](#qiime)
+	- [RNASeq](#rnaseq)
+	- [Variant calling](#variant-calling)
+	- [Genome assembly](#genome-assembly)
+	- [Metagenome assembly](#metagenome-assembly)
+	- [Making phylogenetic trees with ARB](#making-phylogenetic-trees-with-arb)
+	- [Genome annotation](#genome-annotation)
+	- [Metagenome annotation](#metagenome-annotation)
+
+<!-- /TOC -->
 
 ## Courses
 
