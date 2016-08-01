@@ -45,5 +45,5 @@ Compendium of resources for the 2016 course
 | Time       | Activity        | Location  |
 | ------------- |:-------------:| :-----:|
 | 09:15      | _Lecture_: 2016 Microbial Diversity Genomes and Pan Genomes (Scott Dawson)    |  Fishbowl |
-| 10:30 | _Lecture_: Computing Workflows for Biologists (Tracy Teal)   | Fishbowl   |
+| 10:30 | _Lecture_: [Computing Workflows for Biologists](presentations/MBL_2016-07/MBL_computing_workflows.pdf) (Tracy Teal)   | Fishbowl   |
 | 15:30 | _Tutorial_:  optional R lesson  | Lab   |
