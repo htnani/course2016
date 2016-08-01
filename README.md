@@ -36,7 +36,7 @@ Compendium of resources for the 2016 course
 #### <a name="26"></a> Thursday 28 July 2016
 | Time       | Activity        | Location  |
 | ------------- |:-------------:| :-----:|
-| 09:15      | _Lecture_:  Metagenomics Assembly (Tracy Teal)    |  Fishbowl |
+| 09:15      | _Lecture_:  [Applied metagenomics: Microbial communities as reslient systems: from one to one billion](presentations/Teal_MBL_micdiv_2016-07-28.pdf)( (Tracy Teal)    |  Fishbowl |
 | 10:30 | _Lecture_: Ying Zhang: From genomes to metabolic models: making a blueprint of genotype-phenotype associations   | Fishbowl   |
 | 13:30 | _Lecture_: Ethics Discussion with Frank Solomon | Fishbowl |
 | 15:30 | _Tutorial_: anvi'o for visualization   | Lab   |
