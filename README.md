@@ -9,41 +9,38 @@ Compendium of resources for the 2016 course
 * [28 July 2016](#28) <br>
 * [29 July 2016](#29) <br>
 
-##Etherpad
-[Here](https://public.etherpad-mozilla.org/p/mblmicdiv2016)
-
 #### <a name="25"></a> Monday 25 July 2016
 | Time       | Activity        | Location  |
 | ------------- |:-------------:| :-----:|
-| 09:15    | Norm Pace Lecture | Candle House |
-| 10:30 | Norm Pace lecture |    Candle House |
-| 13:00 | [QIIME tutorial](https://github.com/mblmicdiv/diversity-analysis/blob/master/qiime-tutorial.md)<br> [QIIME SOP](https://github.com/jessicamizzi/qiime_tutorial/blob/master/main_tutorial.md) | breakroom |
+| 09:15    | Titus Brown | Candle House |
+| 10:30 | Scott Dawson |    Candle House |
+| 13:00 | [Genome Anntoation]
 
 #### <a name="26"></a> Tuesday 26 July 2016
 | Time       | Activity        | Location  |
 | ------------- |:-------------:| :-----:|
-| 09:15      | _Lecture_: How to Use Sequencing Data (Scott Dawson)     |  Candle House |
-| 10:30 | _Lecture_: Genome Assembly (Titus Brown)    | Candle House   |
-| 15:30 | _Tutorial_: [Genome Assembly](https://github.com/mblmicdiv/ecoli-assembly-binder/blob/master/assembly-tutorial.md)   | Lab   |
+| 09:15      | _Lecture_    |  Candle House |
+| 10:30 | _Lecture_   | Candle House   |
+| 13:00 | _Tutorial_  | Fish Bowl   |
 
 #### <a name="27"></a> Wednesday 27 July 2016
 | Time       | Activity        | Location  |
 | ------------- |:-------------:| :-----:|
-| 09:15      | _Lecture_: Homology (Scott Dawson)    |  Fishbowl |
-| 10:30 | _Lecture_:  Genome Annotation (Scott Dawson)  | Fishbowl   |
-| 15:30 | _Tutorial_: Genome Annotation   | Lab   |
+| 09:15      | _Lecture_     |  Candle House |
+| 10:30 | _Lecture_:  | Candle House  |
+| 13:00 | _Tutorial_:    | Fish Bowl   |
 
 #### <a name="26"></a> Thursday 28 July 2016
 | Time       | Activity        | Location  |
 | ------------- |:-------------:| :-----:|
-| 09:15      | _Lecture_:  [Applied metagenomics: Microbial communities as reslient systems: from one to one billion](presentations/Teal_MBL_micdiv_2016-07-28.pdf)( (Tracy Teal)    |  Fishbowl |
-| 10:30 | _Lecture_: Ying Zhang: From genomes to metabolic models: making a blueprint of genotype-phenotype associations   | Fishbowl   |
-| 13:30 | _Discussion_: Ethics Scenarios [Word](presentations/Scenarios.docx), [pdf](presentations/Scenarios.pdf) | Fishbowl |
-| 15:30 | _Tutorial_: anvi'o for visualization   | Lab   |
+| 09:15      | _Lecture_:   |  Candle House |
+| 10:30 | _Lecture_:   | Candle House |
+| 13:30 | _Tutorial_:  | Fishbowl |
+| 15:30 | _Tutorial_:   | Lab   |
 
 #### <a name="26"></a> Friday 29 July 2016
 | Time       | Activity        | Location  |
 | ------------- |:-------------:| :-----:|
-| 09:15      | _Lecture_: 2016 Microbial Diversity Genomes and Pan Genomes (Scott Dawson)    |  Fishbowl |
-| 10:30 | _Lecture_: [Computing Workflows for Biologists](presentations/MBL_2016-07/MBL_computing_workflows.pdf) (Tracy Teal)   | Fishbowl   |
-| 15:30 | _Tutorial_:  optional R lesson  | Lab   |
+| 09:15      | _Lecture_: anvi'o for visualization     |  Candle House |
+| 10:30 | _Lecture_:    | Fishbowl   |
+| 15:30 | _Tutorial_:  | Fish Bowl   |
